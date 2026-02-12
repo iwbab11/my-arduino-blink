@@ -10,6 +10,6 @@ markdown
  1. Основной режим (main): Одновременное мигание светодиодов.
  2. Режим SOS (ветка feature-sos): Сигнал SOS одним из светодиодов.
  ## Схема подключения
- https://www.tinkercad.com/things/h21mtOf9ILK/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits
+ https://github.com/iwbab11/my-arduino-blink/blob/master/photo_2026-02-12_20-41-27.jpg?raw=true
  ## История изменений
  Полная история доступна в истории коммитов (https://github.com/iwbab11/my-arduino-blink/commits).
